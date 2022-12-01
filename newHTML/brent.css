@@ -54,5 +54,6 @@ footer{
     text-align: center;
 }
 section{
-    border: 2px solid white;
+    border: 3px solid white;
+    color:blue;
 }
