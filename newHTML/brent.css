@@ -38,6 +38,10 @@ section, main, aside{
 }
 section, aside{
     width: 25%;
+    
+}
+aside {
+    border: solid black 5px;
 }
 main{
     border: solid 3px black;
@@ -52,4 +56,7 @@ span{
 }
 footer{
     text-align: center;
+}
+.newedit {
+    background-color: aqua;
 }
