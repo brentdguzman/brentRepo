@@ -38,6 +38,10 @@ section, main, aside{
 }
 section, aside{
     width: 25%;
+    
+}
+aside {
+    border: solid black 5px;
 }
 main{
     border: solid 3px black;
@@ -53,7 +57,13 @@ span{
 footer{
     text-align: center;
 }
+<<<<<<< HEAD
 section{
     border: 3px solid white;
     color:blue;
 }
+=======
+.newedit {
+    background-color: aqua;
+}
+>>>>>>> 6017fbacd8dd8ee4ec01ab7ddb172983de5f7dc2

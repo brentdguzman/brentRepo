@@ -1,0 +1,55 @@
+*{
+    margin: 5px;
+    padding: 2px;
+}
+body{
+    background-size: cover;
+    background-image: url(https://images.pexels.com/photos/132200/pexels-photo-132200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+h1{
+    border: 5px outset royalblue;
+    background-color: yellowgreen;
+    text-align: center;
+}
+nav{
+    background-color: gray;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: crimson;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    border: outset 3px black; 
+}
+li:hover{
+    opacity: 0.5;
+    background-color: black;
+    outline: yellow solid 2px;
+}
+div{
+    display: flex;
+}
+section, main, aside{
+    margin: 1px;
+    height: 400px
+}
+section, aside{
+    width: 25%;
+}
+main{
+    border: solid 3px black;
+    width: 50%;
+    color: darkgreen;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+}
+span{
+    color: blue;
+    display: block;
+}
+footer{
+    text-align: center;
+}
